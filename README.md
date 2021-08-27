@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyberphinx
 - 👀 I’m a career changer from architectura designer / Revit CAD tech to Full Stack and Game developer
-- 🌱 I’m currently learning .NET Core and C#
+- 🌱 I’m currently learning .NET Core, C#, Angular
 - 💞️ I’m looking to collaborate on Full Stack development
 - 📫 
 
