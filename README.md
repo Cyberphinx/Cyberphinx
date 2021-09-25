@@ -3,7 +3,7 @@
 - 🌱 Language: C#, C++, Javascript / Typescript, HTML5, CSS3
 - 🏰 Stack: ASP.NET core, Angular 12, NestJS, SQLite, Postresql
 - 💻 Code editor: Visual Studio Code
-- 💼 Agile collaboration tools: Jira, Trello, Slack
+- 💼 Agile collaboration tools: Jira, Trello, Slack, Discord
 - 💞️ I’m looking to collaborate on Full Stack development
 - 📫 My email is archon [at] tuta [dot] io
 - 🌍 I'm currently based in Birmingham, United Kingdom, working fully remote
