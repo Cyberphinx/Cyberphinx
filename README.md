@@ -10,6 +10,7 @@
 - 💖 My hobby is Gaming, Concept Art, 3D modelling, Behaviour Science, Psychology, and Quantum Mechanics
 - 🔧 Other softwares I use: Autodesk Revit, Blender, Microsoft Excel, Adobe Photoshop / Illustrator / InDesign / After Effects
 - ↗️ My ambition is to become a Senior Full Stack Developer in the next few years, and launch my own social media platform
+- 🍛 Favourite Food: Kung Pao chicken, Ma Po Tofu, Zhajiangmian, Chinese Dumplings
 
 <!---
 Cyberphinx/Cyberphinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
