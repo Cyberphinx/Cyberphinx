@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cyberphinx
-- 👀 I’m a career changer from architectural designer and CAD technician to Full Stack developer
+- 👀 I’m a career changer from architectural designer to Full Stack developer
 - 🌱 I’m currently learning .NET Core, C#, Angular, Typescript, SQL
 - 💞️ I’m looking to collaborate on Full Stack development
 - 📫 Message me here in Github and I will be in touch
