@@ -2,7 +2,7 @@
 - 👀 I’m a career changer from architectural designer to Full Stack developer
 - 🌱 I’m currently learning .NET Core, C#, Angular, Typescript, SQL
 - 💞️ I’m looking to collaborate on Full Stack development
-- 📫 Message me here in Github and I will be in touch
+- 📫 Message me here in Github and I will be in touch; My email is archon [at] tuta [dot] io
 
 <!---
 Cyberphinx/Cyberphinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
