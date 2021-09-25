@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cyberphinx
+- 👋 Hi, I’m @Cyberphinx, Ling Leng
 - 👀 I’m a career changer from architectural designer to Full Stack developer
 - 🌱 I’m currently learning .NET Core, C#, Angular, Typescript, SQL
 - 💞️ I’m looking to collaborate on Full Stack development
