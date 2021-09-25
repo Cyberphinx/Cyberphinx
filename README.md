@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Cyberphinx, Ling Leng, or 冷泠 in Mandarin
 - 👀 I’m a career changer from Architectural Designer to Full Stack developer
+- 💰 I have been working as an Architect for 6 years in the UK, and decide to embark on a new journery in web / software development
 - 🌱 Language: C#, C++, Javascript / Typescript, HTML5, CSS3
 - 🏰 Stack: ASP.NET core, Angular 12, NestJS, SQLite, Postresql
 - 💻 Code editor: Visual Studio Code
