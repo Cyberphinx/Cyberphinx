@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyberphinx, Ling Leng
 - 👀 I’m a career changer from Architectural Designer to Full Stack developer
-- 💰 I have been working as an ARB Qualified Architect for 6 years, and decide to embark on a new journery in web / software development
+- 💰 I have been working as an ARB Qualified Architect for 7 years, and decide to embark on a new journery in web / software development
 - 🌱 Language: C#, C++, Javascript / Typescript, HTML5, CSS3
 - 🏰 Stack: ASP.NET core, Angular 12, NestJS, SQLite, Postresql
 - 💻 Code editor: Visual Studio Code
