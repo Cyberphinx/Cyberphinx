@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @Cyberphinx, Ling Leng
-- 👀 I’m a career changer from Architectural Designer to Full Stack developer
+- 👀 I’m a career changer from Architectural Designer to Full Stack Developer
 - 💰 I have been working as an ARB Qualified Architect for 7 years, and decide to embark on a new journery in web / software development
 - 🌱 Language: C#, C++, Javascript / Typescript, HTML5, CSS3
-- 🏰 Stack: ASP.NET Core, Angular / React / Aurelia, NestJS, SQLite, Postresql
+- 🏰 Stack: ASP.NET Core / NestJS, Angular / React / Aurelia, SQLite / Postresql
 - 💻 Code editor: Visual Studio Code
 - 💼 Agile collaboration tools: Jira, Trello, Slack
 - 💞️ I’m looking to collaborate on Full Stack development / Software development
 - 📫 My email is archon [at] tuta [dot] io
 - 🌍 I'm currently based in England, United Kingdom, working fully remote
 - 💖 My hobby is Gaming, Concept Art, 3D modelling, Behaviour Science, Psychology, and Quantum Mechanics
-- 🔧 Other softwares I use: Autodesk Revit, Rhino3D, Unity, Microsoft Excel, Adobe Photoshop / Illustrator / InDesign / After Effects
+- 🔧 Other softwares I use: Adobe Photoshop / Illustrator / InDesign / After Effects, Microsoft Excel, Autodesk Revit, Unity3D, Rhino3D
 - ↗️ My ambition is to become a Senior Full Stack Developer in the next few years, and launch my own social media platform
-- 🇬🇧 & 🇨🇳 British & Chinese
+- 🇬🇧 & 🇨🇳 British & Chinese : I speak both English & Mandarin
 
 <!---
 Cyberphinx/Cyberphinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
