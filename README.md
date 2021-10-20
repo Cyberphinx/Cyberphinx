@@ -2,7 +2,7 @@
 - 👀 I’m a career changer from Architectural Designer to Full Stack Developer
 - 💰 I have been working as an ARB Qualified Architect for 7 years, and decide to embark on a new journery in web / software development
 - 🌱 Language: C#, C++, Javascript / Typescript, HTML5, CSS3
-- 🏰 Stack: ASP.NET Core / NestJS, Angular / React / Aurelia, SQLite / Postresql
+- 🏰 Stack: ASP.NET Core / NestJS, React / Angular / Aurelia, SQLite / Postresql
 - 💻 Code editor: Visual Studio Code
 - 💼 Agile collaboration tools: Jira, Trello, Slack
 - 💞️ I’m looking to collaborate on Full Stack development / Software development
