@@ -9,7 +9,7 @@
 - 📫 My email is archon [at] tuta [dot] io
 - 🌍 I'm currently based in England, United Kingdom, working fully remote
 - 💖 My hobby is Gaming, Concept Art, 3D modelling, Behaviour Science, Psychology, and Quantum Mechanics
-- 🔧 Other softwares I use: Adobe Photoshop / Illustrator / InDesign / After Effects, Microsoft Excel, Autodesk Revit, Unity3D, Rhino3D
+- 🔧 Other softwares I use: Figma, Adobe Photoshop / Illustrator / InDesign / After Effects, Microsoft Excel, Revit, Rhino3D
 - ↗️ My ambition is to become a Senior Full Stack Developer in the next few years, and launch my own social media platform
 - 🇬🇧 & 🇨🇳 British & Chinese : I speak both English & Mandarin
 
