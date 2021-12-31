@@ -2,10 +2,10 @@
 - 👀 I’m a career changer from Architectural Designer to Full Stack Developer
 - 💰 I have been working as an ARB Qualified Architect for 7 years, and decide to devote fully into web / software development
 - 🌱 Language: C#, C++, Javascript / Typescript, Python, HTML5, CSS3
-- 🏰 Stack: .NET 5 / NestJS / NextJS, React17 / Angular12 / Aurelia2, SQLite / Postresql
+- 🏰 Stack: ASP.NET 5, React17 / Angular12, SQLite / Postresql
 - 💻 Code editor: Visual Studio Code
 - 💼 Agile collaboration tools: Jira, Trello, Kanban, Slack
-- 💞️ I’m looking to collaborate on Full Stack development / Software development / Web scraping
+- 💞️ I’m looking to collaborate on Full Stack development / Web scraping
 - 📫 My email is archon [at] tuta [dot] io
 - 🌍 I'm currently based in England, United Kingdom, working fully remote
 - 💖 My hobby is Gaming, Concept Art Illustration, 3D modelling, Science Fiction, Psychology, and Quantum Mechanics
