@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cyberphinx, Ling Leng
+- 👋 Hi, I’m @Cyberphinx
 - 👀 I’m a career changer from Architectural Designer to Full Stack Developer
 - 💰 I have been working as an ARB Qualified Architect for 7 years, and in 2021 I decide to become a full-stack developer
 - 🌱 Language: C#, Typescript, Python, HTML5, CSS3
