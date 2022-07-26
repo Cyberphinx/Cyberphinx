@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyberphinx
 - 👀 I’m an Architect & Full Stack Developer
-- 🌱 Language: C#, Typescript, Python, HTML5, CSS3
+- 🌱 Language: C#, Typescript, HTML, CSS, Python
 - 🏰 Stack: .NET, React / Angular, SQL / Postresql
 - 💻 Code editor: Visual Studio Code
 - 💼 Agile collaboration tools: Jira, Trello, Kanban, Slack
