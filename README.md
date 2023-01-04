@@ -7,7 +7,6 @@
 - 📫 My email is archon [at] tuta [dot] io
 - 🌍 I'm currently based in United Kingdom
 - 🔧 Other softwares I use: Adobe Photoshop / Illustrator / InDesign / After Effects, Microsoft Excel, Revit, Rhino3D
-- 🇬🇧 & 🇨🇳 British & Chinese
 
 <!---
 Cyberphinx/Cyberphinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
