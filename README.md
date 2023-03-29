@@ -3,7 +3,7 @@
 - 🌱 Language: C#, Typescript, HTML, CSS, Python
 - 🏰 Stack: .NET, React, Postresql
 - 💻 Code editor: Visual Studio Code
-- 💼 Agile collaboration tools: Jira, Trello, Kanban, Slack
+- 💼 Agile collaboration tools: Jira, Trello, Kanban, Slack, Discord
 - 📫 My email is archon [at] tuta [dot] io
 - 🌍 I'm currently based in United Kingdom
 - 🔧 Other softwares I use: Photoshop / Illustrator / InDesign / After Effects, Excel, Revit, Rhino3D
