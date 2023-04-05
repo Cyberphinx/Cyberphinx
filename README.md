@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @Cyberphinx
-- 👀 I’m an Architect & Full Stack Developer
-- 🌱 Language: Rust, C#, Javascript/Typescript, HTML, CSS, Python
+- 👀 Full Stack Developer
+- 🌱 Language: C#, Javascript/Typescript, HTML, CSS, Python, Rust
 - 🏰 Backend: .NET, Axum, 
-- 🏰 Frontend: React
-- 🏰 Database: .Postresql
+- 🏰 Frontend: React, Svelte
+- 🏰 Database: Postresql
 - 💻 Code editor: Visual Studio Code
 - 💼 Agile collaboration tools: Jira, Trello, Kanban, Slack, Discord
-- 📫 My email is archon [at] tuta [dot] io
 - 🌍 I'm currently based in United Kingdom
 - 🔧 Other softwares I use: Photoshop / Illustrator / InDesign / After Effects, Excel, Revit, Rhino3D
 
