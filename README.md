@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Cyberphinx
-- 👀 Full Stack Developer
-- 🌱 Language: C#, Javascript/Typescript, HTML, CSS, Python, Rust
-- 🏰 Backend: .NET, Axum, 
-- 🏰 Frontend: React, Svelte
-- 🏰 Database: Postresql
+- 🧛🏽‍♀️ Full Stack Developer
+- 🌱 Language: C#, Typescript, Rust, HTML, CSS, Python
+- 🌳 Backend: .NET, Axum, 
+- 🌹 Frontend: React, SvelteKit
+- 📚 Database: Postresql, EF Core, SeaORM
 - 💻 Code editor: Visual Studio Code
 - 💼 Agile collaboration tools: Jira, Trello, Kanban, Slack, Discord
 - 🌍 I'm currently based in United Kingdom
