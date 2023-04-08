@@ -7,7 +7,7 @@
 - 💻 Code editor: Visual Studio Code
 - 💼 Agile collaboration tools: Jira, Trello, Kanban, Slack, Discord
 - 🌍 I'm currently based in United Kingdom
-- 🔧 Other softwares I use: Photoshop / Illustrator / InDesign / After Effects, Excel, Revit, Rhino3D
+- 🔧 Other softwares I use: Figma / Photoshop / Illustrator / InDesign / After Effects, Excel, Revit, Rhino3D
 
 <!---
 Cyberphinx/Cyberphinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
