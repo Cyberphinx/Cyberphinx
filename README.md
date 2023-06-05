@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyberphinx
 - 🧛🏽‍♀️ Full Stack Developer
-- 🌱 Language: C#, Typescript, Rust, HTML, CSS, Python
+- 🌱 Language: Rust, C#, Typescript, HTML, CSS, Python
 - 🌳 Backend: .NET, Axum, 
 - 🌹 Frontend: React, SvelteKit
 - 📚 Database: Postresql, EF Core, SeaORM
