@@ -1,13 +1,10 @@
 - 👋 Hi, I’m @Cyberphinx
 - 🧛🏽‍♀️ Full Stack Developer
-- 🌱 Language: Rust, C#, Typescript, HTML, CSS, Python
-- 🌳 Backend: .NET, Axum, 
-- 🌹 Frontend: React, SvelteKit
-- 📚 Database: Postresql, EF Core, SeaORM
-- 💻 Code editor: Visual Studio Code
-- 💼 Agile collaboration tools: Jira, Trello, Kanban, Slack, Discord
+- 🌱 Language: Rust, Typescript, HTML, CSS, C#
+- 🌳 Tech: Rust Axum, .NET, SvelteKit, React, PostreSQL, Docker
+- 💻 Code editor: nvim
 - 🌍 I'm currently based in United Kingdom
-- 🔧 Other softwares I use: Figma / Photoshop / Illustrator / InDesign / After Effects, Excel, Revit, Rhino3D
+- 🔧 Other softwares I use: Figma, Adobe Suites, Krita, Inkscape, Revit, Rhino3D
 
 <!---
 Cyberphinx/Cyberphinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
