@@ -2,7 +2,7 @@
 - 🧛🏽‍♀️ Full Stack Developer
 - 🌱 Language: Rust, Typescript, HTML, CSS, C#, SQL
 - 🌳 Tech: Axum, Leptos, .NET, SvelteKit, React, PostreSQL, Docker, WASM
-- 💻 Code editor: nvim
+- 💻 Code editor: nvim, VS Code
 - 🌍 I'm currently based in United Kingdom
 - 🔧 Other softwares I use: Figma, Adobe Suites, Krita, Inkscape, Revit, Rhino3D, AutoCAD
 
