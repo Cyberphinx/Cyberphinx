@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cyberphinx
 - 🧛🏽‍♀️ Full Stack Developer
-- 🌱 Language: Rust, Typescript, HTML, CSS, C#, SQL
-- 🌳 Tech: Axum, Leptos, .NET, SvelteKit, React, PostreSQL, Docker, WASM
-- 💻 Code editor: nvim, VS Code
+- 🌱 Languages: Rust, Typescript, HTML, CSS, C#, SQL, PHP
+- 🌳 Techs: Axum, Leptos, .NET, SvelteKit, React, PostreSQL, Docker, WordPress, Laravel
+- 💻 Code editor: helix, nvim, VS Code
 - 🌍 I'm currently based in United Kingdom
 - 🔧 Other softwares I use: Figma, Adobe Suites, Krita, Inkscape, Revit, Rhino3D, AutoCAD
 
