@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cyberphinx
-- 🧛🏽‍♀️ Full Stack Developer
+- 🧛🏽‍♀️ Full Stack Developer (Rust Enthusiast)
 - 🌱 Languages: Rust, JavaScript/TypeScript, C#, PHP, HTML, CSS, SQL, SSH
 - 🌳 Tech stacks: Axum, WebAssembly, SvelteKit, React, .NET, Docker, Laravel, WordPress, PostgreSQL, MySQL
 - 📑 Code editor: helix
