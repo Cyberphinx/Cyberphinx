@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Cyberphinx
 - 🧛🏽‍♀️ Full Stack Developer
-- 🌱 Languages: Rust, Typescript, HTML, CSS, C#, SQL, PHP
-- 🌳 Tech stacks: Axum, .NET, SvelteKit, React, Laravel, PostresQL, MySQL, MariaDb, Docker, WordPress
-- 💻 Code editor: helix, nvim, VS Code
+- 🌱 Languages: Rust, JavaScript/TypeScript, C#, PHP, HTML, CSS, SQL, SSH
+- 🌳 Tech stacks: Axum, WebAssembly, SvelteKit, React, .NET, Docker, Laravel, WordPress, PostgreSQL, MySQL
+- 📑 Code editor: helix
+- 💻 OS: Fedora, Ubuntu
 - 🌍 I'm currently based in United Kingdom
-- 🔧 Other softwares I use: Figma, Adobe Suites, Krita, Inkscape, Revit, Rhino3D, AutoCAD
+- 🔧 Other softwares I use: Figma, Autodesk Revit, Rhinoceros 3D
 
 <!---
 Cyberphinx/Cyberphinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
