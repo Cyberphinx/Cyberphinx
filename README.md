@@ -7,6 +7,7 @@
 - 💻 OS: Fedora, Ubuntu
 - 🌍 I'm currently based in United Kingdom
 - 🔧 Other softwares I use: Figma, Autodesk Revit, Rhinoceros 3D
+- 🎨 Hobby: programming in rust-lang, and graphical illustration
 
 <!---
 Cyberphinx/Cyberphinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
