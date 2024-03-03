@@ -6,7 +6,7 @@
 - 📑 Code editor: helix
 - 💻 OS: Fedora, Ubuntu
 - 🌍 I'm currently based in United Kingdom
-- 🔧 Other softwares I use: Figma, Autodesk Revit, Rhinoceros 3D
+- 🔧 Other softwares I use: Figma, Autodesk Revit, Rhinoceros 3D, Adobe Suites
 - 🎨 Hobby: programming in rust-lang, and graphical illustration
 - 🎓 Education: Master of Architecture
 
