@@ -5,7 +5,7 @@
 - 🧠 Skill-set: Generalist Programmer who tells the computer what to do in a variety of languages and frameworks
 - 📑 Code editor: helix
 - 💻 OS: Fedora, Ubuntu
-- 💼 Work: I currently work at a web development agency by day, and work on my own tech startup by night
+- 💼 Work: I currently work at a web development agency by day, and my own tech startup by night
 - 🌍 I'm currently based in United Kingdom
 - 🔧 Other softwares I use: Figma, Autodesk Revit, Rhinoceros 3D, Adobe Suites
 - 🎨 Hobby: programming in rust-lang, illustration and Gouache painting
