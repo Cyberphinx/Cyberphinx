@@ -2,6 +2,7 @@
 - 🧛🏽‍♀️ Full Stack Developer (🦀 Rustacean)
 - 🌱 Languages: Rust, JavaScript/TypeScript, C#, PHP, HTML, CSS, SQL, SSH
 - 🌳 Tech stacks: Axum, WebAssembly, SvelteKit, React, .NET, Docker, Laravel, WordPress, PostgreSQL, MySQL
+- 🧠 Skill-set: generalist programmer who is a jack of all trades with professional agency experience in web development
 - 📑 Code editor: helix
 - 💻 OS: Fedora, Ubuntu
 - 🌍 I'm currently based in United Kingdom
