@@ -7,7 +7,7 @@
 - 💻 OS: Fedora, Ubuntu
 - 🌍 I'm currently based in United Kingdom
 - 🔧 Other softwares I use: Figma, Autodesk Revit, Rhinoceros 3D, Adobe Suites
-- 🎨 Hobby: programming in rust-lang, and graphical illustration
+- 🎨 Hobby: programming in rust-lang, illustration and Gouache painting
 - 🎓 Education: Master of Architecture
 
 <!---
