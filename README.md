@@ -3,7 +3,7 @@
 - 🌱 Languages: Rust, JavaScript/TypeScript, C#, PHP, HTML, CSS, SQL, SSH
 - 🌳 Tech-stacks: Axum, WebAssembly, SvelteKit, React, .NET, Docker, Laravel, WordPress, PostgreSQL, MySQL
 - 🧠 Skill-set: Generalist Programmer who tells the computer what to do in a variety of languages and frameworks
-- 📑 Code editor: helix
+- 📑 Code editor: helix with zellij
 - 💻 OS: Fedora, Ubuntu
 - 💼 Work: I currently work at a web development agency by day, and my own tech startup by night
 - 🌍 I'm currently based in United Kingdom
