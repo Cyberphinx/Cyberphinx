@@ -8,7 +8,7 @@
 - 💼 Work: I currently work at a web development agency by day, and my own tech startup by night
 - 🌍 I'm currently based in United Kingdom
 - 🔧 Other softwares I use: Figma, Autodesk Revit, Rhinoceros 3D, Adobe Suites
-- 🎨 Hobby: programming in rust-lang, illustration and Gouache painting, crazy enough to think that I can change the world
+- 🎨 Hobby: crazy enough to think that I can change the world
 - 🎓 Education: Master of Architecture
 
 <!---
