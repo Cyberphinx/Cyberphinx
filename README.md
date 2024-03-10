@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Cyberphinx
-- 🧛🏽‍♀️ Full Stack Developer (🦀 Rustacean) that can comfortably jump in and out of any tech-stacks
-- 🌱 Languages: Rust, JavaScript/TypeScript, C#, PHP, HTML, CSS, SQL, SSH
-- 🌳 Tech-stacks: Axum, WebAssembly, SvelteKit, React, .NET, Docker, Laravel, WordPress, PostgreSQL, MySQL
+- 🧛🏽‍♀️ Full Stack Developer (🦀 Rustacean)
+- 🌱 Languages: Rust, C#, PHP, SQL, SSH, JavaScript/TypeScript, JSX/TSX, Lua, HTML, CSS
+- 🍀 Frameworks: Axum, WebAssembly, SvelteKit, React, .NET, Docker, Laravel, WordPress, and then some
+- 🌳 Databases: PostgreSQL, MySQL (MariaDB)
 - 🧠 Skill-set: Generalist Programmer who tells the computer what to do in a variety of languages and frameworks
-- 📑 Code editor: helix with zellij
+- 📑 Code editor: helix with zellij, nvim
 - 💻 OS: Fedora, Ubuntu
 - 💼 Work: I currently work at a web development agency by day, and my own tech startup by night
 - 🌍 I'm currently based in United Kingdom
