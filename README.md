@@ -4,7 +4,7 @@
 - 🍀 Frameworks: Axum, Svelte, React, .NET, Laravel, WordPress, Docker, Wasm, TailwindCSS and then some
 - 🌳 Databases: PostgreSQL, MySQL (MariaDB)
 - 🔧 Skill-set: Generalist Programmer who tells the computer what to do in a variety of languages and frameworks
-- 📑 Code editor: helix with zellij
+- 📑 Code editor: helix with zellij in alacritty
 - 💻 OS: Fedora, Ubuntu
 - 💼 Work: I currently work at a web development agency by day, and my own tech startup by night
 - 🌍 I'm currently based in United Kingdom
