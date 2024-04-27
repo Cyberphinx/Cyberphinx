@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cyberphinx
 - 🧛🏽‍♀️ Full Stack Developer (🦀 Rustacean)
-- 🌱 Languages: Rust, JavaScript/TypeScript, JSX/TSX, PHP, C#, SQL, SSH, Bash, HTML, CSS
-- 🍀 Frameworks/Libraries: Axum, Bevy, Svelte, React, Laravel, WordPress, Docker, TailwindCSS
-- 🔧 Skill-set: Generalist Programmer who can jump in and out of any tech stack
+- 🌱 Languages: rust, javaScript/typeScript, jsx/tsx, PHP, C#, sql, ssh, bash, html, css
+- 🍀 Frameworks/Libraries: Axum, Svelte, React, Laravel, WordPress, Docker, TailwindCSS
+- 🔧 Skill-set: Generalist Programmer who can quickly adapt to any software stack
 - 📑 Code editor: helix, zellij, alacritty, fish
 - 💻 OS: Fedora, Ubuntu
 - 💼 Work: I currently work at a web development agency by day, and my own tech startup by night
