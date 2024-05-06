@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyberphinx
 - 🧛🏽‍♀️ Full Stack Developer (🦀 Rustacean)
-- 🌱 Languages: rust, typeScript, php
+- 🌱 Languages: rust, typescript, php
 - 🍀 Frameworks/Libraries: Axum, SvelteKit, Laravel, Docker
 - 🔧 Skill-set: Generalist programmer who loves tinkering and problem-solving with code
 - 📑 Code editor: helix with zellij
