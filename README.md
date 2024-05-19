@@ -3,7 +3,7 @@
 - 🌱 Languages: rust, typescript, php
 - 🍀 Frameworks/Libraries: Axum, SvelteKit, Laravel, Docker
 - 🔧 Skill-set: Generalist programmer who loves tinkering and problem-solving with code
-- 📑 Code editor: helix with zellij
+- 📑 Code editor: helix with zellij and alacritty
 - 💻 OS: Fedora
 - 💼 Work: I currently work at a web development agency by day, and my own tech startup by night
 - 🌍 I'm currently based in United Kingdom
