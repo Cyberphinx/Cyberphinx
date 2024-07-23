@@ -11,13 +11,10 @@
 │ TypeScript, JavaScript,     │
 │ Rust, Python, PHP, SQL      │
 ├─────────────────────────────┤
-│ TypeScript, JavaScript,     │
-│ Rust, Python, PHP, SQL      │
-├─────────────────────────────┤
 │ WEB FRAMEWORKS:             │
 ├─────────────────────────────┤
 │ SvelteKit, React, Laravel   │
-│ Axum, Playwright            │
+│ Axum, Tokio, Playwright     │
 ├─────────────────────────────┤
 │ OTHERS:                     │
 ├─────────────────────────────┤
