@@ -5,25 +5,25 @@
 │ Full Stack Developer | Generalist Programmer             │
 │ Rust-lang enthusiast | Coding machine                    │
 ├──────────────────────────────────────────────────────────┤
-│ LANGUAGES:                                               │
+│ PROGRAMMING LANGUAGES:                                   │
 ├──────────────────────────────────────────────────────────┤
-│ TypeScript, JavaScript, Rust, PHP, SQL                   │
+│ TypeScript, JavaScript, Rust, PHP, C#, Python, SQL       │
 ├──────────────────────────────────────────────────────────┤
-│ FRAMEWORKS:                                              │
+│ WEB / SOFTWARE FRAMEWORKS:                               │
 ├──────────────────────────────────────────────────────────┤
-│ SvelteKit, React, Laravel, Axum, Tokio                   │
+│ SvelteKit, React, Laravel, .NET, Axum, Tokio             │
 ├──────────────────────────────────────────────────────────┤
-│ OTHERS:                                                  │
+│ OTHER TECH:                                              │
 ├──────────────────────────────────────────────────────────┤
 │ Docker, Ansible, Git, Linux, SSH, Bash, CI/CD, Bevy      │
 ├──────────────────────────────────────────────────────────┤
-│ CODE EIDTOR:                                             │
+│ CODE EIDTOR / DEV ENVIRONMENT / OS:                      │
 ├──────────────────────────────────────────────────────────┤
-│ Helix, Alacritty, Zellij                                 │
+│ Helix, Alacritty, Zellij, tmux, i3, Arch Linux, Ubuntu   │
 ├──────────────────────────────────────────────────────────┤
-│ DESIGN:                                                  │
+│ GRAPHIC DESIGN / 3D Modelling:                           │
 ├──────────────────────────────────────────────────────────┤
-│ Figma, Photoshop, Blender                                │
+│ Figma, Photoshop, Illustrator, Blender, Rhino3D, Revit   │
 ╰──────────────────────────────────────────────────────────╯
 ```
 
