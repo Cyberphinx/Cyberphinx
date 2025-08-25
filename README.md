@@ -7,19 +7,19 @@
 ├──────────────────────────────────────────────────────────┤
 │ PROGRAMMING LANGUAGES:                                   │
 ├──────────────────────────────────────────────────────────┤
-│ TypeScript, JavaScript, Rust, PHP, C#, Python, SQL       │
+│ TypeScript / JavaScript, Rust, PHP, SQL                  │
 ├──────────────────────────────────────────────────────────┤
 │ WEB / SOFTWARE FRAMEWORKS:                               │
 ├──────────────────────────────────────────────────────────┤
-│ SvelteKit, React, Laravel, .NET, Axum, Tokio             │
+│ SvelteKit, React, Laravel, Axum, Three.js                │
 ├──────────────────────────────────────────────────────────┤
 │ OTHER TECH:                                              │
 ├──────────────────────────────────────────────────────────┤
-│ Docker, Ansible, Git, Linux, SSH, Bash, CI/CD, Bevy      │
+│ Docker, Ansible, Git, Linux, SSH, Bash, CI/CD Pipelines  │
 ├──────────────────────────────────────────────────────────┤
 │ CODE EIDTOR / DEV ENVIRONMENT / OS:                      │
 ├──────────────────────────────────────────────────────────┤
-│ Helix, Alacritty, Zellij, tmux, i3, Arch Linux, Ubuntu   │
+│ Helix, Alacritty, tmux, Arch Linux, Ubuntu               │
 ├──────────────────────────────────────────────────────────┤
 │ GRAPHIC DESIGN / 3D Modelling:                           │
 ├──────────────────────────────────────────────────────────┤
