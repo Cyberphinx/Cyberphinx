@@ -21,7 +21,7 @@
 ├──────────────────────────────────────────────────────────┤
 │ Helix, Alacritty, tmux, Arch Linux, Ubuntu               │
 ├──────────────────────────────────────────────────────────┤
-│ GRAPHIC DESIGN / 3D Modelling:                           │
+│ GRAPHIC DESIGN / 3D MODELLING:                           │
 ├──────────────────────────────────────────────────────────┤
 │ Figma, Photoshop, Illustrator, Blender, Rhino3D, Revit   │
 ╰──────────────────────────────────────────────────────────╯
