@@ -3,7 +3,7 @@
 │ Hi, I’m @Cyberphinx                                      │
 ├──────────────────────────────────────────────────────────┤
 │ Full Stack Developer | Generalist Programmer             │
-│ Rust-lang enthusiast | Coding machine                    │
+│ Rustacean | Coding machine                               │
 ├──────────────────────────────────────────────────────────┤
 │ PROGRAMMING LANGUAGES:                                   │
 ├──────────────────────────────────────────────────────────┤
