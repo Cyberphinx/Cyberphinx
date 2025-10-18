@@ -2,26 +2,26 @@
 ╭──────────────────────────────────────────────────────────╮
 │ Hi, I’m @Cyberphinx                                      │
 ├──────────────────────────────────────────────────────────┤
-│ Full Stack Developer | Generalist Programmer             │
-│ Rustacean | Coding machine                               │
+│ Full Stack Developer | Rustacean                         |
+| Architect in more ways than one                          │
 ├──────────────────────────────────────────────────────────┤
-│ PROGRAMMING LANGUAGES:                                   │
+│ LANGUAGES:                                               │
 ├──────────────────────────────────────────────────────────┤
-│ TypeScript / JavaScript, Rust, PHP, SQL                  │
+│ TypeScript / JavaScript, Rust, SQL                       │
 ├──────────────────────────────────────────────────────────┤
-│ WEB / SOFTWARE FRAMEWORKS:                               │
+│ FRAMEWORKS:                                              │
 ├──────────────────────────────────────────────────────────┤
-│ SvelteKit, React, Laravel, Axum, Three.js                │
+│ SvelteKit, React, Axum, Laravel, Three.js                │
 ├──────────────────────────────────────────────────────────┤
 │ INFRASTRUCTURE:                                          │
 ├──────────────────────────────────────────────────────────┤
 │ Docker, Ansible, Git, Linux, SSH, Bash, CI/CD Pipelines  │
 ├──────────────────────────────────────────────────────────┤
-│ CODE EIDTOR / DEV ENVIRONMENT:                           │
+│ IDE & OS:                                                │
 ├──────────────────────────────────────────────────────────┤
-│ Helix, Alacritty, tmux, Arch Linux, Ubuntu               │
+│ Helix, Alacritty, tmux, Arch Linux                       │
 ├──────────────────────────────────────────────────────────┤
-│ GRAPHIC DESIGN / 3D MODELLING:                           │
+│ DESIGN / 3D MODELLING:                                   │
 ├──────────────────────────────────────────────────────────┤
 │ Figma, Photoshop, Illustrator, Blender, Rhino3D, Revit   │
 ╰──────────────────────────────────────────────────────────╯
