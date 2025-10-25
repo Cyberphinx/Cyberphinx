@@ -15,15 +15,15 @@
 ├──────────────────────────────────────────────────────────┤
 │ INFRASTRUCTURE:                                          │
 ├──────────────────────────────────────────────────────────┤
-│ Docker, Ansible, Git, Linux, SSH, Bash, CI/CD Pipelines  │
+│ Linux, Git, SSH, Bash, Docker, CI/CD Pipelines, Ansible  │
 ├──────────────────────────────────────────────────────────┤
-│ IDE & OS:                                                │
+│ OS & IDE:                                                │
 ├──────────────────────────────────────────────────────────┤
-│ Helix, Alacritty, tmux, Arch Linux                       │
+│ Arch Linux, Helix, Alacritty, tmux                       │
 ├──────────────────────────────────────────────────────────┤
 │ DESIGN / 3D MODELLING:                                   │
 ├──────────────────────────────────────────────────────────┤
-│ Figma, Photoshop, Illustrator, Blender, Rhino3D, Revit   │
+│ Figma, Photoshop, Illustrator, Autodesk Revit, Rhino3D   │
 ╰──────────────────────────────────────────────────────────╯
 ```
 
