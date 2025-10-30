@@ -1,6 +1,6 @@
 ```
 ╭──────────────────────────────────────────────────────────╮
-│ Hi, I’m @Cyberphinx                                      │
+│ Hi, I’m @ling0x                                          │
 ├──────────────────────────────────────────────────────────┤
 │ Full Stack Developer | Rustacean                         |
 | Architect in more ways than one                          │
