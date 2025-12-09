@@ -26,7 +26,7 @@
 │ ENV  ▸ Arch Linux · Helix · Alacritty · tmux │
 ├──────────────────────────────────────────────┤
 │ DESIGN ▸ Figma · Photoshop · Illustrator     │
-│        ▸ Revit · Rhino3D                     │
+│        ▸ Autodesk Revit · Rhino3D · CAD/BIM  │
 ╰──────────────────────────────────────────────╯
 ```
 
