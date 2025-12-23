@@ -20,7 +20,7 @@
 │ WEB  ▸ SvelteKit · React+Redux · Axum        │
 │ 3D   ▸ Three.js                              │
 ├──────────────────────────────────────────────┤
-│ OPS  ▸ Linux · Git · SSH · Bash              │
+│ OPS  ▸ Linux · Git · SSH · Bash · Ansible    │
 │      ▸ Docker · CI/CD · Nginx · apache2      │
 ├──────────────────────────────────────────────┤
 │ ENV  ▸ Arch Linux · Helix · Alacritty · tmux │
