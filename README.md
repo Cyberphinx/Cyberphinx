@@ -16,9 +16,9 @@
 ╭──────────────────────────────────────────────╮
 │ STACK DIAGNOSTICS                            │
 ├──────────────────────────────────────────────┤
-│ LANG ▸ TypeScript / JavaScript · Rust · SQL  │
-│ WEB  ▸ SvelteKit · React+Redux · Axum        │
-│ OTHER   ▸ Three.js · WebAssembly             │
+│ LANG  ▸ TypeScript / JavaScript · Rust · SQL │
+│ WEB   ▸ SvelteKit · React+Redux · Axum       │
+│ OTHER ▸ Three.js · WebAssembly               │
 ├──────────────────────────────────────────────┤
 │ OPS  ▸ Linux · Git · SSH · Bash · Ansible    │
 │      ▸ Docker · CI/CD · Nginx · apache2      │
