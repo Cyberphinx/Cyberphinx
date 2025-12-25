@@ -18,7 +18,7 @@
 ├──────────────────────────────────────────────┤
 │ LANG ▸ TypeScript / JavaScript · Rust · SQL  │
 │ WEB  ▸ SvelteKit · React+Redux · Axum        │
-│ 3D   ▸ Three.js                              │
+│ OTHER   ▸ Three.js · WebAssembly             │
 ├──────────────────────────────────────────────┤
 │ OPS  ▸ Linux · Git · SSH · Bash · Ansible    │
 │      ▸ Docker · CI/CD · Nginx · apache2      │
