@@ -20,13 +20,16 @@
 │ WEB   ▸ SvelteKit · React+Redux · Axum       │
 │ OTHER ▸ Three.js · WebAssembly               │
 ├──────────────────────────────────────────────┤
-│ OPS  ▸ Linux · Git · SSH · Bash · Ansible    │
-│      ▸ Docker · CI/CD · Nginx · apache2      │
+│ OPS  ▸ Linux · Git · SSH · Bash · CI/CD      │
+│      ▸ Docker · NATS · Nginx · apache2       │
 ├──────────────────────────────────────────────┤
 │ ENV  ▸ Arch Linux · Helix · Alacritty · tmux │
 ├──────────────────────────────────────────────┤
 │ DESIGN ▸ Figma · Photoshop · Illustrator     │
 │        ▸ Autodesk Revit · Rhino3D · CAD/BIM  │
+├──────────────────────────────────────────────┤
+│ OTHER ▸ Autodesk Certified Professional      │
+│       ▸ ARB Qualified Architect              │
 ╰──────────────────────────────────────────────╯
 ```
 
