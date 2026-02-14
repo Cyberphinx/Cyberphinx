@@ -30,6 +30,7 @@
 ├──────────────────────────────────────────────┤
 │ OTHER ▸ Autodesk Certified Professional      │
 │       ▸ ARB Qualified Architect              │
+│       ▸ Infographics enthusiast              │
 ╰──────────────────────────────────────────────╯
 ```
 
