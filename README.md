@@ -1,3 +1,4 @@
+```
 ⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣾⣿⣿⣿⣿⣷⡶⠦
 ⠀⠀⠀⢀⣴⣾⣿⣿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣤⡄
 ⠀⠀⣰⣿⣿⣿⠋⠀⠀⠀⠀⠈⢻⣿⣿⣿⣿⣿⣿⡟⠛⠛⠃
@@ -44,7 +45,7 @@
 
 - 🏛️ **[ling-lang](https://github.com/ling0x/ling-lang)** - DSL for hieroglyphic logogram esoteric language
 
-- 🍔 **[autofood](https://github.com/ling0x/autofood)** - Automated food ordering and delivery system
+- 🥑 **[autofood](https://github.com/ling0x/autofood)** - Automated food ordering and delivery system
 
 <!---
 Cyberphinx/Cyberphinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
