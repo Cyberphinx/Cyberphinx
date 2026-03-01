@@ -33,6 +33,18 @@
 ╰──────────────────────────────────────────────╯
 ```
 
+- 🎭 **[narrative-credibility-index](https://github.com/ling0x/narrative-credibility-index)** - The AI-powered PSYOP detection features using NCI
+
+- 🔒 **[paravoid](https://github.com/ling0x/paravoid)** - Privacy-preserving one-time message system
+
+- 🕵️ **[tor-nodes](https://github.com/ling0x/tor-nodes)** - Tor monitoring infrastructure with geolocation
+
+- 🧊 **[transvoxel](https://github.com/ling0x/transvoxel)** - Transvoxel terrain algorithm engine
+
+- 🦐 **[krill](https://github.com/ling0x/krill)** - Agent-to-agent communication toolkit and a2a lang
+
+- 🏛️ **[ling-lang](https://github.com/ling0x/ling-lang)** - DSL for hieroglyphic logogram esoteric language
+
 <!---
 Cyberphinx/Cyberphinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
