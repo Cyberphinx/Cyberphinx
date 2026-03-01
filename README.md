@@ -33,6 +33,8 @@
 ╰──────────────────────────────────────────────╯
 ```
 
+## Rust Projects
+
 - 🎭 **[narrative-credibility-index](https://github.com/ling0x/narrative-credibility-index)** - The AI-powered PSYOP detection features using NCI
 
 - 🔒 **[paravoid](https://github.com/ling0x/paravoid)** - Privacy-preserving one-time message system
