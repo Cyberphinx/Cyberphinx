@@ -49,6 +49,10 @@
 
 - 🥑 **[autofood](https://github.com/ling0x/autofood)** - Automated food ordering and delivery system
 
+## Notes
+
+- 📝 **[notes](https://github.com/ling0x/notes)** - Study notes for Rust programming language and concepts
+
 <!---
 Cyberphinx/Cyberphinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
