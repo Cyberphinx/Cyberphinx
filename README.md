@@ -33,6 +33,10 @@
 ╰──────────────────────────────────────────────╯
 ```
 
+## Notes
+
+- 📝 **[notes](https://github.com/ling0x/notes)** - Study notes for Software Engineering concepts with Rust examples
+
 ## Rust Projects
 
 - 🎭 **[narrative-credibility-index](https://github.com/ling0x/narrative-credibility-index)** - The AI-powered PSYOP detection features using NCI
@@ -49,9 +53,7 @@
 
 - 🥑 **[autofood](https://github.com/ling0x/autofood)** - Automated food ordering and delivery system
 
-## Notes
 
-- 📝 **[notes](https://github.com/ling0x/notes)** - Study notes for Rust programming language and concepts
 
 <!---
 Cyberphinx/Cyberphinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
