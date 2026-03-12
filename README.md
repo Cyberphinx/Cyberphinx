@@ -35,7 +35,7 @@
 
 ## Notes
 
-- 📝 **[notes](https://ling0x.github.io/notes/)** - Study notes for Software Engineering concepts with Rust examples
+- 📝 **[notes](https://blog.ling.ooo)** - Study notes for Software Engineering concepts with Rust examples
 
 ## Rust Projects
 
