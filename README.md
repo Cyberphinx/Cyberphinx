@@ -41,6 +41,8 @@
 
 - 🎭 **[narrative-credibility-index](https://github.com/ling0x/narrative-credibility-index)** - The AI-powered PSYOP detection features using NCI
 
+- 🧠 **[cognitive-bias-detector](https://github.com/ling0x/cognitive-bias-detector)** - Terminal app for detecting cognitive biases in text, with AI integration and the full Cognitive Bias Codex
+
 - 🔒 **[paravoid](https://github.com/ling0x/paravoid)** - Privacy-preserving one-time message system
 
 - 🕵️ **[tor-nodes](https://github.com/ling0x/tor-nodes)** - Tor monitoring infrastructure with geolocation
