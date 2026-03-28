@@ -37,7 +37,7 @@
 
 - 📝 **[notes](https://github.com/ling0x/notes)** - Study notes for Software Engineering concepts with Rust examples
 
-- 🔎 **[archon](https://github.com/ling0x/archon)** - My personal AI web search assistant - say goodbye to subscriptions
+- 🔎 **[archon](https://github.com/ling0x/archon)** - My personal AI web search assistant
 
 ## Rust Projects
 
