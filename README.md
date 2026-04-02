@@ -39,6 +39,8 @@
 
 - 🔎 **[archon](https://github.com/ling0x/archon)** - My personal AI web search assistant - privacy-focused - multi-search engine
 
+- 🤖 **[archon-pi](https://github.com/ling0x/archon-pi)** - Pi coding agent extension that adds privacy-respecting web search with Ollama-powered query rewriting
+
 ## Rust Projects
 
 - 🎭 **[narrative-credibility-index](https://github.com/ling0x/narrative-credibility-index)** - The AI-powered PSYOP detection features using NCI
