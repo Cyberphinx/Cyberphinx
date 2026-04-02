@@ -1,4 +1,3 @@
-```
 ⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣾⣿⣿⣿⣿⣷⡶⠦
 ⠀⠀⠀⢀⣴⣾⣿⣿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣤⡄
 ⠀⠀⣰⣿⣿⣿⠋⠀⠀⠀⠀⠈⢻⣿⣿⣿⣿⣿⣿⡟⠛⠛⠃
@@ -31,13 +30,16 @@
 │ OTHER ▸ Autodesk Certified Professional      │
 │       ▸ ARB Qualified Architect              │
 ╰──────────────────────────────────────────────╯
-```
 
 ## Personal Tools
 
 - 📝 **[notes](https://github.com/ling0x/notes)** - Study notes for Software Engineering concepts with Rust examples
 
 - 🔎 **[archon](https://github.com/ling0x/archon)** - My personal AI web search assistant - privacy-focused - multi-search engine
+
+## JavaScript/TypeScript Projects
+
+- 🏢 **[virtual-office](https://github.com/ling0x/virtual-office)** - Virtual office game where players can send messages to each other from their virtual offices
 
 ## Rust Projects
 
