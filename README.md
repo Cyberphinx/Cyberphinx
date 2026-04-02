@@ -39,10 +39,6 @@
 
 - 🔎 **[archon](https://github.com/ling0x/archon)** - My personal AI web search assistant - privacy-focused - multi-search engine
 
-## JavaScript/TypeScript Projects
-
-- 🏢 **[virtual-office](https://github.com/ling0x/virtual-office)** - Virtual office game where players can send messages to each other from their virtual offices
-
 ## Rust Projects
 
 - 🎭 **[narrative-credibility-index](https://github.com/ling0x/narrative-credibility-index)** - The AI-powered PSYOP detection features using NCI
@@ -61,6 +57,9 @@
 
 - 🥑 **[autofood](https://github.com/ling0x/autofood)** - Automated food ordering and delivery system
 
+## JavaScript/TypeScript Projects
+
+- 🏢 **[virtual-office](https://github.com/ling0x/virtual-office)** - Virtual office game where players can send messages to each other from their virtual offices
 
 
 <!---
