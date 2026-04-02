@@ -1,3 +1,4 @@
+```
 ⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣾⣿⣿⣿⣿⣷⡶⠦
 ⠀⠀⠀⢀⣴⣾⣿⣿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣤⡄
 ⠀⠀⣰⣿⣿⣿⠋⠀⠀⠀⠀⠈⢻⣿⣿⣿⣿⣿⣿⡟⠛⠛⠃
@@ -30,6 +31,7 @@
 │ OTHER ▸ Autodesk Certified Professional      │
 │       ▸ ARB Qualified Architect              │
 ╰──────────────────────────────────────────────╯
+```
 
 ## Personal Tools
 
