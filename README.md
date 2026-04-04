@@ -43,6 +43,8 @@
 
 ## Rust Projects
 
+- ☁️ **[wasmcloud-project](https://github.com/ling0x/wasmcloud-project)** — WebAssembly components deployed on wasmCloud using Rust.
+
 - 🎭 **[narrative-credibility-index](https://github.com/ling0x/narrative-credibility-index)** - The AI-powered PSYOP detection features using NCI
 
 - 🧠 **[cognitive-bias-detector](https://github.com/ling0x/cognitive-bias-detector)** - The AI-powered cognitive biases detection tool using the full Cognitive Bias Codex
