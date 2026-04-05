@@ -37,7 +37,7 @@
 
 - 📝 **[notes](https://github.com/ling0x/notes)** - Study notes for Software Engineering concepts with Rust examples
 
-- 🔎 **[archon](https://github.com/ling0x/archon)** - My personal AI web search assistant - privacy-focused - multi-search engine
+- 🔎 **[archon](https://github.com/ling0x/archon)** - My personal AI web search assistant - privacy-focused - multi-search engine aggregation
 
 - 🤖 **[archon-pi](https://github.com/ling0x/archon-pi)** - Pi coding agent extension that adds privacy-respecting web search with Ollama-powered query rewriting
 
