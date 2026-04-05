@@ -43,7 +43,9 @@
 
 ## Rust Projects
 
-- ☁️ **[wasmcloud-project](https://github.com/ling0x/wasmcloud-project)** — WebAssembly components deployed on wasmCloud using Rust.
+- 🗄️ **[cache-tier](https://github.com/ling0x/cache)** - A two-tier caching service built in Rust,combining LRU/LFU cache (Moka) with Redis, served over Axum
+
+- ☁️ **[wasmcloud-project](https://github.com/ling0x/wasmcloud-project)** - WebAssembly components deployed on wasmCloud using Rust.
 
 - 🎭 **[narrative-credibility-index](https://github.com/ling0x/narrative-credibility-index)** - The AI-powered PSYOP detection features using NCI
 
