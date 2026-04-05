@@ -43,9 +43,11 @@
 
 ## Rust Projects
 
-- 🗄️ **[cache-tier](https://github.com/ling0x/cache)** - A two-tier caching service built in Rust,combining LRU/LFU cache (Moka) with Redis, served over Axum
+- 🗄️ **[cache](https://github.com/ling0x/cache)** - A two-tier caching service built in Rust,combining LRU/LFU cache (Moka) with Redis, served over Axum
 
-- ☁️ **[wasmcloud-project](https://github.com/ling0x/wasmcloud-project)** - WebAssembly components deployed on wasmCloud using Rust.
+- ☁️ **[wasmcloud-project](https://github.com/ling0x/wasmcloud-project)** - WebAssembly components deployed on wasmCloud using Rust
+
+- ⚙️ **[observability](https://github.com/ling0x/observability)** - Self-hosted observability stack: metrics, logs, and traces via OTel Collector, Prometheus, Loki, Tempo, and Grafana
 
 - 🎭 **[narrative-credibility-index](https://github.com/ling0x/narrative-credibility-index)** - The AI-powered PSYOP detection features using NCI
 
