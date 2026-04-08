@@ -61,7 +61,7 @@
 
 - 🦐 **[krill](https://github.com/ling0x/krill)** - Agent-to-agent communication toolkit and a2a lang
 
-- 🏛️ **[ling-lang](https://github.com/ling0x/ling-lang)** - Concept design draft for hieroglyphic logogram "esoteric" language
+- 🏛️ **[ling-lang](https://github.com/ling0x/ling-lang)** - logogram language
 
 - 🥑 **[autofood](https://github.com/ling0x/autofood)** - Automated food ordering and delivery system
 
