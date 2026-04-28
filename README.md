@@ -33,43 +33,6 @@
 ╰──────────────────────────────────────────────╯
 ```
 
-## Personal Tools
-
-- 📝 **[notes](https://github.com/ling0x/notes)** - Study notes for Software Engineering concepts with Rust examples
-
-- 🔎 **[archon](https://github.com/ling0x/archon)** - My personal AI web search assistant - privacy-focused - multi-search engine aggregation
-
-- 🤖 **[archon-pi](https://github.com/ling0x/archon-pi)** - Pi coding agent extension that adds privacy-respecting web search with Ollama-powered query rewriting
-
-## Rust Projects
-
-- 🗄️ **[cache](https://github.com/ling0x/cache)** - A two-tier caching service built in Rust,combining LRU/LFU cache (Moka) with Redis, served over Axum
-
-- ☁️ **[wasmcloud-project](https://github.com/ling0x/wasmcloud-project)** - WebAssembly components deployed on wasmCloud using Rust
-
-- ⚙️ **[observability](https://github.com/ling0x/observability)** - Self-hosted observability stack: metrics, logs, and traces via OTel Collector, Prometheus, Loki, Tempo, and Grafana
-
-- 🎭 **[narrative-credibility-index](https://github.com/ling0x/narrative-credibility-index)** - The AI-powered PSYOP detection features using NCI
-
-- 🧠 **[cognitive-bias-detector](https://github.com/ling0x/cognitive-bias-detector)** - The AI-powered cognitive biases detection tool using the full Cognitive Bias Codex
-
-- 🔒 **[paravoid](https://github.com/ling0x/paravoid)** - Privacy-preserving one-time message system
-
-- 🕵️ **[tor-nodes](https://github.com/ling0x/tor-nodes)** - Tor monitoring infrastructure with geolocation
-
-- 🧊 **[transvoxel](https://github.com/ling0x/transvoxel)** - Transvoxel terrain algorithm engine
-
-- 🦐 **[krill](https://github.com/ling0x/krill)** - Agent-to-agent communication toolkit and a2a lang
-
-- 🧮 **[ling-lang](https://github.com/ling0x/ling-lang)** - logogram language
-
-- 🥑 **[autofood](https://github.com/ling0x/autofood)** - Automated food ordering and delivery system
-
-## JavaScript/TypeScript Projects
-
-- 🏢 **[virtual-office](https://github.com/ling0x/virtual-office)** - Virtual office game where players can send messages to each other from their virtual offices
-
-
 <!---
 Cyberphinx/Cyberphinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
