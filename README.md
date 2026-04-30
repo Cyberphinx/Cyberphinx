@@ -23,7 +23,7 @@
 │ OPS  ▸ Linux · Git · SSH · Bash · CI/CD      │
 │      ▸ Docker · NATS · Nginx · apache2       │
 ├──────────────────────────────────────────────┤
-│ ENV  ▸ Arch Linux · Helix · Ghostty · tmux   │
+│ ENV  ▸ Arch Linux · Helix · Alacritty · tmux │
 ├──────────────────────────────────────────────┤
 │ DESIGN ▸ Figma · Photoshop · Illustrator     │
 │        ▸ Autodesk Revit · Rhino3D · CAD/BIM  │
