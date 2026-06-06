@@ -18,6 +18,7 @@
 ├──────────────────────────────────────────────┤
 │ LANG  ▸ TypeScript / JavaScript · Rust · SQL │
 │ WEB   ▸ SvelteKit · React+Redux · Axum       │
+| DATA  ▸ PostgreSQL · Redb                    |
 │ OTHER ▸ Three.js · WebAssembly               │
 ├──────────────────────────────────────────────┤
 │ OPS  ▸ Linux · Git · SSH · Bash · CI/CD      │
